@@ -2,7 +2,6 @@
 
 By Juuso Hinkkanen
 
-Video overview: <https://youtu.be/a3u79G4Ne3I>
 
 ## Scope
 Purpose is to manage modular configuration of products to allow users customize the final product
@@ -78,8 +77,8 @@ I included indexes to tables where I assume to be many rows repeating the same i
 
 ## Limitations
 
-I would like to still improve the structure of compatibility checks and configurations, as there has to be a more efficient way to achieve that.
+Naturally this a very limited version of a product configurator.
+* I would like to still improve the structure of compatibility checks and configurations, as there has to be a more efficient way to achieve that.
+* I would like to add more functions or a system regarding rules of the configuration.
+* Also the configuration can't be done on material level as it needs modules to be built with bill of materials. Is it an advantage or disadvantage, depends a lot on the environment where this would be used.
 
-I would like to add more functions or a system regarding rules of the configuration.
-
-Also the configuration can't be done on material level as it needs modules to be built with bill of materials. Is it an advantage or disadvantage, depends a lot on the environment where this would be used.
